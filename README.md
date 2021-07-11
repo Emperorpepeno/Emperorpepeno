@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emperorpepeno
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and making the world a better place.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact me send me a message on Discord. My account name is Emperorpepeno#3811
