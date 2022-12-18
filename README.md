@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emperorpepeno
+- 👋 Hi, I’m Emperorpepeno
 - 👀 I’m interested in programming and making the world a better place.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
